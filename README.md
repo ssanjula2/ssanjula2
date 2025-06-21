@@ -2,18 +2,18 @@
 <h3 align="center">An <strong>Undergraduate</strong> Software Engineer by profession, problem solver by passion — bridging local values with global innovation.</h3>
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ssanjula2&label=Profile%20views&color=0e75b6&style=flat" alt="ssanjula2" /> </p>
 
-
-- 🔭 I’m currently working on **GoLang Project**
-- 🌱 I’m currently learning **GoLang**
-- 💬 Ask me about **Next,React, Java, JavaScript, HTML**
-- 📫 How to reach me: **thisalchamodya123@gmail.com**
+- 🔭 I’m currently working on **LMS**
+- 🌱 I’m currently learning **Flutter**
+- 💬 Ask me about **React, JS, Java, Dart**
+- 📫 How to reach me: **shehansanjula2001@gmail.com**
 - ⚡ Fun fact: **I use Git like a pro, but when I really need it, {git reset --hard} becomes my panic button.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/thisal chamodya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="thisal chamodya" height="30" width="40" /></a>
-<a href="https://instagram.com/thisal23595" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thisal23595" height="30" width="40" /></a>
+<a href="https://www.facebook.com/share/1CsQpvskqA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shehan sanjula" height="30" width="40" /></a>
+<a href="https://www.instagram.com/s_h_e_h_a_n__2001?igsh=aHhoZXVsdGhsd2wx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shehan" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -34,20 +34,20 @@
   <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> 
 </p>
 
-<h3 align="left">Top Projects: Lost Car Finder System 🚗💡</h3>
+<h3 align="left">Top Projects: Car Rental Service</h3>
 
-The Lost Car Finder System is a web application designed to help users register and track their vehicles in case they get stolen. This system allows users to easily report their cars as stolen, receive real-time notifications, and assist others in finding their vehicles.
+The Smart Car Rental System is a web application designed to provide users with a seamless, efficient way to rent vehicles. Whether for business or leisure, this system makes it easy to browse, book, and manage car rentals online, with real-time updates and user-friendly features.
 
 Key Features:
-+ Car Registration: Register multiple cars under a single account.
-+ Stolen Car Reporting: Quickly report a car as stolen with detailed information.
-+ Notifications: All users receive email notifications when a car is reported as stolen.
-+ Car Finder: Search for nearby garages based on location.
-+ Community Support: View stolen car notifications and help in tracking down missing vehicles.
++ Vehicle Listings: Explore a wide selection of cars available for rent, with filters for car type, price, and rental duration.
++ Online Booking: Reserve vehicles quickly and securely through your account dashboard.
++ Rental Management: View and manage all your active, upcoming, and past rentals from a single portal.
++ Multi-Car Rental: Rent multiple vehicles under one account for flexible travel or business needs.
++ Admin Control Panel: Admins can manage car availability, rental records, and user details efficiently.
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thisal0714&show_icons=true&locale=en&layout=compact" alt="thisal0714" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ssanjula2&show_icons=true&locale=en&layout=compact" alt="ssanjula2" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thisal0714&show_icons=true&locale=en" alt="thisal0714" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ssanjula2&show_icons=true&locale=en" alt="ssanjula2" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thisal0714&" alt="thisal0714" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ssanjula2&" alt="ssanjula2" /></p>
